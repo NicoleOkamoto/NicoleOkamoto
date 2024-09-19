@@ -19,7 +19,7 @@ Welcome to my GitHub profile, where creativity meets code. I'm a passionate Full
 - 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nicoleokamoto) 💼
-- [Email](mailto:nicoleokamoto@eicloud.com) 📧
+- [Email](mailto:nicoleokamoto@icloud.com) 📧
 - [nicoleokamoto.io](https://nicoleokamoto.io) 👩‍💻
 
 ### ⚡ Fun facts:
